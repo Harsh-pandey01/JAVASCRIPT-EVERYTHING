@@ -13,7 +13,7 @@ sayName()
 // console.log(lname);          ------------> variable is not defined 
 
 
-// lets check for let and const
+// lets check for let and const         ---> Es2015 me let and const aaya 
 let age = 15 
 const dob = "1/1/1"
 
